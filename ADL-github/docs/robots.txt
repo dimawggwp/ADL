@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /admin.html
-
-# После подключения домена замените адрес ниже
-Sitemap: https://ВАШ-ДОМЕН/sitemap.xml
